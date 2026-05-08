@@ -29,3 +29,6 @@ An interactive Power BI dashboard developed to analyze travel insurance sales, c
 
 ## Business Impact
 This dashboard helps identify sales trends, customer behavior, profitable distribution channels, and claim patterns, enabling data-driven decision-making and improved operational performance.
+
+![Dashboard](dashboard1(powerbi).png)
+![Dashboard](dashboard2(Excel).png)
