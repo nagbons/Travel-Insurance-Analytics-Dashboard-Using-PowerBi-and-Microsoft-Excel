@@ -1,6 +1,6 @@
 # Travel Insurance Dashboard Project
 
-## Tools and Tecchnologies
+## Tools and Technologies
 - Microsoft Excel
 - Power BI
 - Data Cleaning
